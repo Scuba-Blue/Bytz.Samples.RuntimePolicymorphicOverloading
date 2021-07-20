@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bytz.Samples.RuntimePolicymorphicOverloading", "Bytz.Samples.RuntimePolicymorphicOverloading.csproj", "{7D10FE9F-F44C-404B-800F-D9C133270362}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D10FE9F-F44C-404B-800F-D9C133270362}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D10FE9F-F44C-404B-800F-D9C133270362}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D10FE9F-F44C-404B-800F-D9C133270362}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D10FE9F-F44C-404B-800F-D9C133270362}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {73A33F0A-5D96-410F-A3DB-5891F553FE20}
+	EndGlobalSection
+EndGlobal
